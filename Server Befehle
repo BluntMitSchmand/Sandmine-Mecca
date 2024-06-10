@@ -1,0 +1,22 @@
+Server Befehle
+
+Warps:
+  /spawn  
+  /warp list
+  /warp tp [Name]
+
+Homes:
+  /home list
+  /home set [Name]
+  /home delete [Name]
+  /home tp [Name]
+
+Teleport:
+  /tpa [Player]
+  /tpaccept
+  /tpdeny
+
+Tools:
+  /workbench
+  /enderchest
+  /wastebin
