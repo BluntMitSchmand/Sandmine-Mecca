@@ -1,22 +1,22 @@
 Server Befehle
 
-Warps:
-  /spawn  
-  /warp list
-  /warp tp [Name]
+Warps:                      (Ofizielle Server Orte=Warps)
+  /spawn                    (=Teleportiert dich zum Spawn)
+  /warp list                (=Zeigt alle Server Orte)
+  /warp tp [Name]           (=Teleportiert dich zum jeweiligen Warp)
 
-Homes:
-  /home list
-  /home set [Name]
-  /home delete [Name]
-  /home tp [Name]
+Homes:                      (Individuell festlegbare Orte=Homes)
+  /home list                (=Zeigt alle deine gesetzten Homes)
+  /home set [Name]          (=Erzeugt ein Home)
+  /home delete [Name]       (=löscht jeweiliges Home)
+  /home tp [Name]           (=Teleportiert zum jeweiligen Home)
 
-Teleport:
-  /tpa [Player]
-  /tpaccept
-  /tpdeny
+Teleport:                   (Zu anderen Spielern Teleportieren)
+  /tpa [Player]             (=Tp Anfrage zu jeweiligem Spieler)
+  /tpaccept                 (=Tp Anfrage von anderem Spieler Annehmen)
+  /tpdeny                   (=Tp Anfrage von anderem Spieler Ablehnem)
 
-Tools:
-  /workbench
-  /enderchest
-  /wastebin
+Tools:                      (Nützliche andere Commands)
+  /workbench                (Öffnet eine Werbank)
+  /enderchest               (Öffnet eine private Enderchest)
+  /wastebin                 (Öffnet einen Mülleimer)
